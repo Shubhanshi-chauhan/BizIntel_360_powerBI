@@ -1,7 +1,7 @@
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 
--**[Live Report LINK](https://app.powerbi.com/view?r=eyJrIjoiZmZjNjA2MmUtNjk3ZS00MjFhLThlZWItNjE5YjFiYzA2NzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+⭐ **[Live Report LINK](https://app.powerbi.com/view?r=eyJrIjoiZmZjNjA2MmUtNjk3ZS00MjFhLThlZWItNjE5YjFiYzA2NzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 - **👨‍💻Tech stacks:**
 ***
@@ -124,7 +124,6 @@ https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626
 ***
 
 https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/af3c2c1b-04c0-4581-9ebc-7354e506be0c
-
 
 You can Find the **full report** here: [Report](https://www.novypro.com/project/buisnessinsights)
 

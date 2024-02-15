@@ -3,7 +3,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 [Live Report LINK](https://app.powerbi.com/view?r=eyJrIjoiZmZjNjA2MmUtNjk3ZS00MjFhLThlZWItNjE5YjFiYzA2NzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**Tech stacks Used:**
+- **👨‍💻Tech stacks:**
 ***
 
 - [x] SQL
@@ -13,8 +13,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - [x] Project Charter File
 
 
-**PowerBI techniques Learnt:**
-***
+- **📊PowerBI techniques Learnt:**
+  ***
 - [x] Creating calculated columns
 - [x] creating measure using DAX language
 - [x] Data modeling
@@ -30,11 +30,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - [x] Publishing reports to PowerBi services
 - [x] Setting up personal gateway to set up the auto refresh of data
 
-GitHub
-Uploading Large size files using GitHub LFS
-Tracking the particular type of file extensions for LFS
-
-**Business related terms:**
+- **💹Business related terms:**
 ***
 
 - [x] Gross price
@@ -62,7 +58,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-**Dataset Understanding**
+- **Dataset Understanding**
 
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
@@ -70,56 +66,69 @@ Understanding what data is available will be more helpful while doing analysis. 
 
 - [x] Fact table : It will have the data about the transactions
 
-**Importing data into PowerBi**
+- **Importing data into PowerBi**
 ***
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
-**Data Model**
+- **Data Model**
 
 - [x] Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - [x] Poor data modeling affects the over all performance of the report.
 - [x] In this project, we have followed Snowfall data modeling method.
 
+![image](https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/9f943ec0-45ab-402c-b428-6c76aaf8e3b2)
 
-**Home view**
 
-In Home view, all the views button will be available. User will land on specific view page by clicking the button
+- **Home view**
+***
 
-- [x] Info
-- [x] Finance View
-- [x] Sales View
-- [x] Marketing View
-- [x] Supply chain View
-- [x] Executive View
-- [x] Support
+In Home view, all the views button will be available. User will land on specific view page by clicking the button.
+
+  💡 Info
+      
+  💰 Finance View
+
+  💹 Sales View
+
+  🚀 Marketing View
+
+  🚚 Supply chain View
+
+  🌐 Executive View
+
+  📞 Support
+  
+
+  🏛️**HOME Page**
+  ***
 
 ![HOME page](https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/c5390361-097a-46d4-bfae-dde8a38a8e5f)
 
-**Finance View**
+- **Finance View**
 ***
 
 https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/d3199283-d361-4666-8166-f3f759f78a64
 
-**Sales View**
+- **Sales View**
 ***
 
 
 https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/786d52cd-0ba1-4427-b9dd-6c37bff134c7
 
-**Marketing View**
+- **Marketing View**
 ***
 
 
 https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/274426d2-b219-4eb7-8ff8-33db9a146c8a
 
-**Supply Chain**
+- **Supply Chain**
 ***
 
 
 
 https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/1f89831e-56f3-4fd6-9cd3-05ecd4844c44
 
-**Executive View**
+- **Executive View**
 ***
 
 

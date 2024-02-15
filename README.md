@@ -98,6 +98,36 @@ In Home view, all the views button will be available. User will land on specific
 **Finance View**
 ***
 
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/d3199283-d361-4666-8166-f3f759f78a64
 
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/78bd74ad-a39e-4c71-b10f-3f2fa7ca02a5
+**Sales View**
+***
 
+
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/786d52cd-0ba1-4427-b9dd-6c37bff134c7
+
+**Marketing View**
+***
+
+
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/274426d2-b219-4eb7-8ff8-33db9a146c8a
+
+**Supply Chain**
+***
+
+
+
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/1f89831e-56f3-4fd6-9cd3-05ecd4844c44
+
+**Executive View**
+***
+
+
+
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/c21ad481-9adc-4ff1-9619-790f11f90436
+
+You can Find the **full report** here: [Report](https://www.novypro.com/project/buisnessinsights)
+
+**Project Outcome**
+***
+By using this report, decisions can be taken based on the data. Further it will help in answering the number of why questions based on the situation.

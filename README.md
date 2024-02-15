@@ -1,7 +1,7 @@
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 
-[Live Report LINK](https://app.powerbi.com/view?r=eyJrIjoiZmZjNjA2MmUtNjk3ZS00MjFhLThlZWItNjE5YjFiYzA2NzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+-**[Live Report LINK](https://app.powerbi.com/view?r=eyJrIjoiZmZjNjA2MmUtNjk3ZS00MjFhLThlZWItNjE5YjFiYzA2NzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 - **👨‍💻Tech stacks:**
 ***
@@ -106,34 +106,25 @@ In Home view, all the views button will be available. User will land on specific
 
 - **Finance View**
 ***
-
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/d3199283-d361-4666-8166-f3f759f78a64
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/032f6c8e-04c0-4839-9aea-5e011ef64863
 
 - **Sales View**
 ***
-
-
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/786d52cd-0ba1-4427-b9dd-6c37bff134c7
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/1d938c61-634a-4699-b5dd-7630434795f8
 
 - **Marketing View**
 ***
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/c5f79543-733c-48ff-ae7e-5299d17c4c3f
 
-
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/274426d2-b219-4eb7-8ff8-33db9a146c8a
-
-- **Supply Chain**
+- **Supply Chain view**
 ***
-
-
-
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/1f89831e-56f3-4fd6-9cd3-05ecd4844c44
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/9bfb01cc-4ada-47e1-b6a7-4bbf9792b41b
 
 - **Executive View**
 ***
 
+https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/af3c2c1b-04c0-4581-9ebc-7354e506be0c
 
-
-https://github.com/Shubhanshi-chauhan/Buisness_Insights_powerBI/assets/154693626/c21ad481-9adc-4ff1-9619-790f11f90436
 
 You can Find the **full report** here: [Report](https://www.novypro.com/project/buisnessinsights)
 
